@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/babi/commit/efcf4cb26a81f4beafa79fd8ce93456e627fb2fd",
       "git:hexsha": "efcf4cb26a81f4beafa79fd8ce93456e627fb2fd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/babi/commit/76d77b72a55288e0a6e301bdb0ba9a98029d2dac",
